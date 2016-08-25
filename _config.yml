@@ -1,0 +1,14 @@
+layout_spectrum: 0.5869798169005662
+typography_spectrum: 0.367157022934407
+color:
+  brandStrength: 0.001881839707493782
+  lightness: 0.9402918615378439
+  saturation: 0.19661546498537064
+  rhythmicContrast: 0.12792377662844956
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: BlueTail
