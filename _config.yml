@@ -1,4 +1,3 @@
-layout_spectrum: 0.5869798169005662
 typography_spectrum: 0.367157022934407
 color:
   brandStrength: 0.001881839707493782
@@ -6,9 +5,11 @@ color:
   saturation: 0.19661546498537064
   rhythmicContrast: 0.12792377662844956
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.5869798169005662
 name: BlueTail
+title: Positive Thinking For Everyday Life
