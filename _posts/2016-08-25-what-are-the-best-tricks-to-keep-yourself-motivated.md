@@ -1,17 +1,17 @@
 ---
+datePublished: '2016-08-25T13:26:50.895Z'
+sourcePath: _posts/2016-08-25-what-are-the-best-tricks-to-keep-yourself-motivated.md
+author: []
+via: {}
+dateModified: '2016-08-25T13:26:50.429Z'
+title: What Are The Best Tricks To Keep Yourself Motivated?
+publisher: {}
 description: >-
   Performance goals like have 10.000 visitor a day, is a good goal if you own a
   site, but it does not have any meaning. If you sell clothes because you will
   know that your customers will be more attractive is a nice meaningful goal. Go
   back to roots “why” you doing this or that, find
-dateModified: '2016-08-25T13:24:41.535Z'
-datePublished: '2016-08-25T13:24:53.698Z'
-title: What Are The Best Tricks To Keep Yourself Motivated?
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-25-what-are-the-best-tricks-to-keep-yourself-motivated.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,6 +20,14 @@ _type: MediaObject
 ---
 # **What Are The Best Tricks To Keep Yourself Motivated?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1d126d-c793-4878-9187-bec0024e82aa.jpg)
+
+> Dr. Heidi Grant Halvorson found some interesting things in the science of motivation.
+> 
+> She created two test groups, the first was the "bo-good" (demonstrating how good they are) group and the second one was the "get-better" (learning constantly) group.
+> 
+> For some participants in each group, Halvorson also increased the difficulty level by introducing a few challenges. She interrupted participants to use up some of their allotted time. She threw in extra, unsolvable problems to frustrate them, without telling participants that the problems were unsolvable.
+> 
+> What surprised Halvorson was how the two groups dealt with the challenges. The ones in the "get-better" group remained unfazed and solved as many as problems in the challenging conditions as the easy ones. They stayed motivated and kept trying to learn. The ones in the "be-good" group, however, were so demoralized when they faced the challenges and obstacles that they solved substantially fewer problems than those who didn't have to face them. And those differences happened just because of how the initial goal was framed.
 
 ### 1\. Define Goals With True Meanings
 
