@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T13:26:50.895Z'
+datePublished: '2016-08-25T14:18:49.902Z'
 sourcePath: _posts/2016-08-25-what-are-the-best-tricks-to-keep-yourself-motivated.md
 author: []
 via: {}
-dateModified: '2016-08-25T13:26:50.429Z'
+dateModified: '2016-08-25T14:18:49.142Z'
 title: What Are The Best Tricks To Keep Yourself Motivated?
 publisher: {}
 description: >-
@@ -11,11 +11,10 @@ description: >-
   site, but it does not have any meaning. If you sell clothes because you will
   know that your customers will be more attractive is a nice meaningful goal. Go
   back to roots “why” you doing this or that, find
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: what-are-the-best-tricks-to-keep-yourself-motivated/index.html
+_type: Blurb
 
 ---
 # **What Are The Best Tricks To Keep Yourself Motivated?**
