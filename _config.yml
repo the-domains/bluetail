@@ -12,5 +12,9 @@ color:
     - '#00A388'
 layout_spectrum: 0.5869798169005662
 name: BlueTail
+navigation:
+  - name: Motivation
+    id: 04432c26-ccb4-4620-906f-b3b880614f72
+    type: content
 title: Positive Thinking For Everyday Life
 description: Connect The Dots And Experience New Dimensions
