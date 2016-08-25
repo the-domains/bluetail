@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T14:18:49.902Z'
+datePublished: '2016-08-25T15:39:46.911Z'
 sourcePath: _posts/2016-08-25-what-are-the-best-tricks-to-keep-yourself-motivated.md
 author: []
 via: {}
-dateModified: '2016-08-25T14:18:49.142Z'
+dateModified: '2016-08-25T15:39:46.151Z'
 title: What Are The Best Tricks To Keep Yourself Motivated?
 publisher: {}
 description: >-
