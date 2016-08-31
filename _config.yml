@@ -1,20 +1,30 @@
+name: BlueTail
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d345f91-de47-4540-aee9-3df026a0729d.png
+layout_spectrum: 0.5869798169005662
 typography_spectrum: 0.367157022934407
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.001881839707493782
-  lightness: 0.9402918615378439
-  saturation: 0.19661546498537064
-  rhythmicContrast: 0.12792377662844956
   brandColors:
     - '#FF6138'
     - '#FFFF9D'
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-layout_spectrum: 0.5869798169005662
-name: BlueTail
+  brandStrength: 0.001881839707493782
+  lightness: 0.9402918615378439
+  saturation: 0.19661546498537064
+  rhythmicContrast: 0.12792377662844956
+title: Positive Thinking For Everyday Life
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
 navigation:
   - name: Keep Yourself Motivated
     id: 04432c26-ccb4-4620-906f-b3b880614f72
     type: content
-title: Positive Thinking For Everyday Life
-description: Connect The Dots And Experience New Dimensions
