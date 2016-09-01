@@ -1,13 +1,6 @@
-name: BlueTail
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02519441-98a0-4588-b764-a5ed06cd8836.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4045f499-7aec-4c09-8e76-f454a063348b.png
-layout_spectrum: 0.5869798169005662
 typography_spectrum: 0.367157022934407
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF6138'
@@ -19,14 +12,23 @@ color:
   lightness: 0.9402918615378439
   saturation: 0.19661546498537064
   rhythmicContrast: 0.12792377662844956
-title: Positive Thinking For Everyday Life
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.5869798169005662
+analytics:
+  google: UA-28506178-4
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4045f499-7aec-4c09-8e76-f454a063348b.png
+name: BlueTail
 navigation:
   - name: Keep Yourself Motivated
     id: 04432c26-ccb4-4620-906f-b3b880614f72
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02519441-98a0-4588-b764-a5ed06cd8836.png
+title: Positive Thinking For Everyday Life
