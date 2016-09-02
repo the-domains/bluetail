@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-30T13:00:27.321Z'
+datePublished: '2016-08-30T20:38:06.135Z'
 inFeed: true
-isBasedOnUrl: 'https://www.youtube.com/watch?v=rrkrvAUbU9Y'
 author: []
 via: {}
-dateModified: '2016-08-30T12:59:49.104Z'
+dateModified: '2016-08-30T20:38:05.324Z'
 title: ‘The Law Of Non Resistance’
 publisher:
   name: Austin SSC
 description: >-
   I would like to explain a pure phenomenon to you, that is called “The Law of
   non resistance”.
-starred: false
 sourcePath: _posts/2016-08-30-the-law-of-non-resistance.md
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-law-of-non-resistance/index.html
+_type: Article
 
 ---
 # 'The Law Of Non Resistance'
